@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"NetopGO/models"
 	"github.com/astaxie/beego"
+	"github.com/cqspirit/NetopGO/models"
 )
 
 type MainController struct {

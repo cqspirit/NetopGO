@@ -1,8 +1,9 @@
 package main
 
 import (
-	"NetopGO/models"
-	_ "NetopGO/routers"
+	_ "github.com/cqspirit/NetopGO/routers"
+
+	"github.com/cqspirit/NetopGO/models"
 	//"fmt"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"

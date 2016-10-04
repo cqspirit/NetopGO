@@ -1,9 +1,10 @@
 package routers
 
 import (
-	"NetopGO/controllers"
-	"NetopGO/models"
+	"github.com/cqspirit/NetopGO/models"
+
 	"github.com/astaxie/beego"
+	"github.com/cqspirit/NetopGO/controllers"
 	"golang.org/x/net/websocket"
 )
 

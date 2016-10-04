@@ -1,11 +1,12 @@
 package controllers
 
 import (
-	"NetopGO/models"
+	"github.com/cqspirit/NetopGO/models"
 	//"fmt"
-	"github.com/astaxie/beego"
 	"strconv"
 	"strings"
+
+	"github.com/astaxie/beego"
 )
 
 type HostController struct {

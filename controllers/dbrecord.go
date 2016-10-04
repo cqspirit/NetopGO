@@ -1,11 +1,12 @@
 package controllers
 
 import (
-	"NetopGO/models"
-	"github.com/astaxie/beego"
 	"path"
 	"strconv"
 	"strings"
+
+	"github.com/astaxie/beego"
+	"github.com/cqspirit/NetopGO/models"
 )
 
 type RecordController struct {

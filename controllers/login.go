@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"NetopGO/models"
+	"github.com/cqspirit/NetopGO/models"
 	//"fmt"
 	"github.com/astaxie/beego"
 )
